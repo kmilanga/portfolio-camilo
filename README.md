@@ -1,0 +1,1 @@
+# Mi portafolio web personal, desarrollado como mi primer proyecto dentro de mi transición profesional hacia el desarrollo full‑stack. Incluye información sobre mi experiencia en gestión hotelera, mis habilidades técnicas iniciales y los proyectos que iré construyendo a medida que avanzo en mi formación.
